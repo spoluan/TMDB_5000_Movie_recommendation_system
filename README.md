@@ -6,4 +6,4 @@ The goal of this project is to analyze the TMDB5000 Movies dataset and develop a
 
 Leveraging the rich source of data provided by the TMDB5000 Movies dataset, the recommendation system aims to provide users with personalized movie suggestions that are tailored to their interests and viewing habits. The project may involve data exploration, data preprocessing, feature engineering, and model training to build an effective recommendation system that delivers accurate and relevant movie recommendations to users. In this repository, you can check out the different branches that cover various approaches commonly used by people or companies in developing their recommendation systems.
 
-The dataset used in this project can be found and downloaded from the following source: [https://grouplens.org/datasets/movielens/latest/](https://grouplens.org/datasets/movielens/latest/]). 
+The dataset used in this project can be found and downloaded from the following source: https://grouplens.org/datasets/movielens/latest/
