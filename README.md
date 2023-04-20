@@ -1,5 +1,7 @@
 **Project Descriptions**
 
+![alt](word_cloud.png)
+
 The TMDB 5000 Datasets are a popular collection of movie data that includes information about thousands of movies. The dataset is commonly used in data science and machine learning projects for movie recommendation systems, movie analytics, and movie-related research.
 
 The dataset contains a wide range of information, such as movie titles, release dates, genres, ratings, budgets, and revenue. It also includes other details such as cast and crew information, production companies, and keywords associated with each movie.
